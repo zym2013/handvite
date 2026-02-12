@@ -4,7 +4,7 @@
       "id": 1,
       "name": "洛谷",
       "url": "https://www.luogu.com.cn",
-      "avatar": "https://cdn.luogu.com.cn/upload/usericon/1.png",
+      "avatar": "/luogu.png",
       "description": "梦开始的地方。",
       "tags": ["学习", "编程", "社区"],
       "type": "website"
@@ -13,7 +13,7 @@
       "id": 2,
       "name": "GitHub",
       "url": "https://github.com",
-      "avatar": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+      "avatar": "/github.png",
       "description": "全球最大的代码托管平台，开源项目的聚集地",
       "tags": ["开发", "社区"],
       "type": "website"
@@ -22,7 +22,7 @@
       "id": 3,
       "name": "DeepSeek",
       "url": "https://deepseek.com",
-      "avatar": "https://cdn.deepseek.com/chat/icon.png",
+      "avatar": "/deepseek.png",
       "description": "深度求索……国产 AI 大模型。",
       "tags": ["工具", "AI"],
       "type": "website"
@@ -31,7 +31,7 @@
       "id": 4,
       "name": "AtCoder",
       "url": "https://atcoder.jp",
-      "avatar": "https://img.atcoder.jp/assets/atcoder.png",
+      "avatar": "/atcoder.png",
       "description": "日本的在线编程比赛平台。",
       "tags": ["学习", "编程", "算法"],
       "type": "website"
@@ -40,7 +40,7 @@
       "id": 5,
       "name": "Codeforces",
       "url": "https://codeforces.com",
-      "avatar": "https://codeforces.com/codeforces.org/s/31105/apple-icon-57x57.png",
+      "avatar": "/codeforces.png",
       "description": "全球知名的编程比赛平台。",
       "tags": ["学习", "编程", "社区"],
       "type": "website"
@@ -49,10 +49,11 @@
       "id": 6,
       "name": "Virtual Judge",
       "url": "https://vjudge.net/",
-      "avatar": "https://vjudge.net/static/bundle/11b24ab2156955d8f3fa.ico",
+      "avatar": "/vjudge.png",
       "description": "在线编程远程评测系统，支持多个 OJ 平台。",
       "tags": ["编程", "工具", "社区"],
       "type": "website"
     }
   ]
+
 }
