@@ -5,7 +5,7 @@
 			"name": "Violentmonkey",
 			"url": "https://violentmonkey.github.io",
 			"downloadUrl": "https://violentmonkey.github.io/get-it/",
-			"avatar": "/violentmonkey.png",
+			"avatar": "/public/violentmonkey.png",
 			"description": "强大的用户脚本管理器，支持 Greasemonkey、Tampermonkey 脚本",
 			"tags": [
 				"工具",
@@ -19,7 +19,7 @@
 			"name": "Tampermonkey",
 			"url": "https://www.tampermonkey.net",
 			"downloadUrl": "https://www.tampermonkey.net",
-			"avatar": "/tampermonkey.png",
+			"avatar": "/public/tampermonkey.png",
 			"description": "最流行的用户脚本管理器，支持 Chrome、Firefox、Safari 等浏览器",
 			"tags": [
 				"工具",
@@ -33,7 +33,7 @@
 			"name": "Dark Reader",
 			"url": "https://darkreader.org",
 			"downloadUrl": "https://darkreader.org",
-			"avatar": "/darkreader.png",
+			"avatar": "/public/darkreader.png",
 			"description": "为所有网站启用夜间模式，保护眼睛，减少蓝光伤害",
 			"tags": [
 				"美化",
@@ -47,7 +47,7 @@
 			"name": "AdBlock Plus",
 			"url": "https://adblockplus.org",
 			"downloadUrl": "https://adblockplus.org",
-			"avatar": "/adblockplus.svg",
+			"avatar": "/public/adblockplus.svg",
 			"description": "屏蔽网页广告、弹窗和跟踪器，提供更清爽的浏览体验",
 			"tags": [
 				"工具",
@@ -61,7 +61,7 @@
 			"name": "Stylus",
 			"url": "https://add0n.com/stylus.html",
 			"downloadUrl": "https://chrome.zzzmh.cn/info/clngdbkpkpeebahjckkjfobafhncgmne",
-			"avatar": "/stylus.png",
+			"avatar": "/public/stylus.png",
 			"description": "用户样式管理器，轻松为网站应用自定义 CSS 样式",
 			"tags": [
 				"美化",
@@ -73,4 +73,5 @@
 	]
 
 }
+
 
